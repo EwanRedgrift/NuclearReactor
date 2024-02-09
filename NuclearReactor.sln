@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuclearReactor", "NuclearReactor\NuclearReactor.csproj", "{33AFE569-FDA1-42F1-A4C2-76E739DD44F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33AFE569-FDA1-42F1-A4C2-76E739DD44F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AFE569-FDA1-42F1-A4C2-76E739DD44F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AFE569-FDA1-42F1-A4C2-76E739DD44F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AFE569-FDA1-42F1-A4C2-76E739DD44F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7865A8C-7836-4055-8FB6-C0F5C1390E9E}
+	EndGlobalSection
+EndGlobal
