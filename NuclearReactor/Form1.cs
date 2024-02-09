@@ -55,6 +55,7 @@ namespace NuclearReactor
 
             lableLAble.Text = "Rizzin' XD";
             lableLAble.ForeColor = Color.OrangeRed;
+            //Hello!
         }
 
         private void label4_Click(object sender, EventArgs e)
